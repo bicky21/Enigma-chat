@@ -111,7 +111,7 @@ Post-beta enhancements could include:
 
 - **Live Beta**: [https://p2p-ghost.glitch.me/](https://p2p-ghost.glitch.me/)
 - **Feedback**: Use GitHub Issues for bug reports or suggestions.
-- **Blog**: [Tutcyber]([https://p2p-ghost.glitch.me/])
+- **Blog**: [Tutcyber](https://p2p-ghost.glitch.me/)
 ---
 
 **Join the Beta!** Experience Enigma Chat at `https://p2p-ghost.glitch.me/` and help guide its evolution while respecting its proprietary nature.
